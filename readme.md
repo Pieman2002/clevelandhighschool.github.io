@@ -7,7 +7,7 @@
 -   [Space Rocks HTML Game](http://www.clevelandhighschool.org/spacerocks/){:target="_blank"}
 
 ### CHS
--   [CHS CS Moodle](http://moodle.clevelandhighschool.org/){:target="_blank"}
+-   [CHS CS Moodle](https://csmoodle.clevelandhighschool.org/){:target="_blank"}
 -   [Cleveland High School Bulletin](https://www.pps.net/Page/8600){:target="_blank"}
 -   [StudentVue](https://parent-portland.cascadetech.org/portland/){:target="_blank"}
 -   [Bell Schedule](https://www.pps.net/Page/6745){:target="_blank"}
